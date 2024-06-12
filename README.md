@@ -1,5 +1,5 @@
 # DevOpsCase
 
-![img.png](images/case.png)
+![case.png](images/case.png)
 
-![img.png](images/pipeline.drawio.png)
+![pipeline.drawio.png](images/pipeline.drawio.png)
